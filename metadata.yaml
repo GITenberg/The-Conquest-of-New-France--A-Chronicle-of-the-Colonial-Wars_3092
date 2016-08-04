@@ -1,0 +1,43 @@
+_repo: The-Conquest-of-New-France--A-Chronicle-of-the-Colonial-Wars_3092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3092'
+language: en
+publication_note: '[S.l. :  s.n.,  1919]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 10
+subjects:
+- !lcsh 'United States -- History -- King William''s War, 1689-1697'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcsh 'United States -- History -- Queen Anne''s War, 1702-1713'
+- !lcc 'E186'
+- !lcsh 'United States -- History -- King George''s War, 1744-1748'
+- GITenberg
+title: The Conquest of New France; A Chronicle of the Colonial Wars
+url: http://www.gutenberg.org/ebooks/3092
